@@ -1,0 +1,7 @@
+name =input('what is your first name:')
+lastName = input("what is your last name:")
+age = input('what is your age:')
+income = input("what is your income:")
+print("my name is",name +lastName)
+print("my age is:",age)
+print("my income is double digits",income)
